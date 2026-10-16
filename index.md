@@ -1,8 +1,11 @@
 ---
 title: Welcome to my Atto-blog!
 ---
+
 # Tit1
-[ ] - todoA
-[ ] - todoB
+
+[ ] todoA
+[ ] todoB
+
 ## Tit2
 XXX *XXX*
